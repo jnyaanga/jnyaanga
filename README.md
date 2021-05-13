@@ -2,7 +2,7 @@
 
 <img align='right' src='https://monophy.com/media/f6hnhHkks8bk4jwjh3/monophy.gif' width='150"'>
 
-I am a graduate student and data enthusiast based in Chicago. I use R and RStudio to perform statistical analyses, create detailed visualizations, and generate comprehensive reports for my research. I am currently building a website to showcase the many projects I've been part of and although it is still under development, feel free to have a look around: [joynyaanga.netlify.app!](https://joynyaanga.netlify.app)
+I am a graduate student and data enthusiast based in Chicago. I use R and RStudio to perform statistical analyses, create detailed visualizations, and generate comprehensive reports for my research. I am currently building a [website](https://joynyaanga.netlify.app) to showcase the many projects I've been part of. Although it is still under development, feel free to have a look around!
 
 Want to learn more about what I do?   
 Find me on [LinkedIn](https://www.linkedin.com/in/joy-nyaanga/)  
