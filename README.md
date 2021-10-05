@@ -2,9 +2,9 @@
 
 <img align='right' src='cat.gif' width='200' height = '200' alt='Coding cat'>
 
-I am a graduate student and data enthusiast based in Chicago. I use R and RStudio to perform statistical analyses, create detailed visualizations, and generate comprehensive reports for my research. I am currently building a [website](https://joynyaanga.netlify.app) to showcase the many projects I've been part of. Although it is still under development, feel free to have a look around!
+I am a graduate student and data enthusiast based in Chicago. I use R and RStudio to perform statistical analyses, create detailed visualizations, and generate comprehensive reports for my research. If you're interested in the projects I work on, check out my [website](https://joynyaanga.com).
 
-Want to learn more about what I do?   
+Want to connect?   
 Find me on [LinkedIn](https://www.linkedin.com/in/joy-nyaanga/)  
 Or reach me by [email](mailto:jnyaan@gmail.com)
 
