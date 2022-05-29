@@ -1,7 +1,7 @@
 ![Header image](https://github.com/jnyaanga/jnyaanga/blob/main/GitHub_header.jpg)
 
 
-I am a graduate student and data enthusiast based in Chicago. I use R and RStudio to perform statistical analyses, create detailed visualizations, and generate comprehensive reports for my research. If you're interested in the projects I work on, check out my [website](https://joynyaanga.com).
+I am a PhD scientist and data enthusiast based in Chicago. I use bash, R, and python to perform statistical analyses, create detailed visualizations, and generate comprehensive reports for my research. If you're interested in the projects I work on, check out my [website](https://joynyaanga.com).
 
 Want to connect?   
 Find me on [LinkedIn](https://www.linkedin.com/in/joy-nyaanga/)  
